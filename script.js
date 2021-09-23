@@ -11,7 +11,7 @@ const renderIcon = (isTrue) => {
   } else {
     return '<img src="images/x.svg" class="accordian-icon" alt="x icon" />';
   }
-};
+}; 
 
 // desktop header row with all plans
 const desktopHeaderRow = `
